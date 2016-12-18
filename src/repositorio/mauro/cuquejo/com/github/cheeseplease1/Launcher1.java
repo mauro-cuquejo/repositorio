@@ -1,3 +1,4 @@
+package repositorio.mauro.cuquejo.com.github.cheeseplease1;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 public class Launcher1 {
 	

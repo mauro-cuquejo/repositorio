@@ -1,3 +1,4 @@
+package repositorio.mauro.cuquejo.com.github.cheeseplease1;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input.Keys;
 import com.badlogic.gdx.graphics.GL20;
